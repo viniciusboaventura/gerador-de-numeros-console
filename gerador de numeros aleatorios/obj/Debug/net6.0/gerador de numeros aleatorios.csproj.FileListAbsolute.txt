@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\gerador de numeros aleatorios\bin\Debug\net6.0\gerador de numeros aleatorios.exe
+C:\Users\vinic\source\repos\gerador de numeros aleatorios\bin\Debug\net6.0\gerador de numeros aleatorios.deps.json
+C:\Users\vinic\source\repos\gerador de numeros aleatorios\bin\Debug\net6.0\gerador de numeros aleatorios.runtimeconfig.json
+C:\Users\vinic\source\repos\gerador de numeros aleatorios\bin\Debug\net6.0\gerador de numeros aleatorios.dll
+C:\Users\vinic\source\repos\gerador de numeros aleatorios\bin\Debug\net6.0\gerador de numeros aleatorios.pdb
+C:\Users\vinic\source\repos\gerador de numeros aleatorios\obj\Debug\net6.0\gerador de numeros aleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\gerador de numeros aleatorios\obj\Debug\net6.0\gerador de numeros aleatorios.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\gerador de numeros aleatorios\obj\Debug\net6.0\gerador de numeros aleatorios.AssemblyInfo.cs
+C:\Users\vinic\source\repos\gerador de numeros aleatorios\obj\Debug\net6.0\gerador de numeros aleatorios.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\gerador de numeros aleatorios\obj\Debug\net6.0\gerador de numeros aleatorios.dll
+C:\Users\vinic\source\repos\gerador de numeros aleatorios\obj\Debug\net6.0\refint\gerador de numeros aleatorios.dll
+C:\Users\vinic\source\repos\gerador de numeros aleatorios\obj\Debug\net6.0\gerador de numeros aleatorios.pdb
+C:\Users\vinic\source\repos\gerador de numeros aleatorios\obj\Debug\net6.0\gerador de numeros aleatorios.genruntimeconfig.cache
+C:\Users\vinic\source\repos\gerador de numeros aleatorios\obj\Debug\net6.0\ref\gerador de numeros aleatorios.dll
